@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindFullMuscle/static/css/main.20acbc28.css",
+    "main.js": "/mindFullMuscle/static/js/main.120eea3a.js",
+    "static/media/banner.png": "/mindFullMuscle/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/mindFullMuscle/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/mindFullMuscle/index.html",
+    "main.20acbc28.css.map": "/mindFullMuscle/static/css/main.20acbc28.css.map",
+    "main.120eea3a.js.map": "/mindFullMuscle/static/js/main.120eea3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.120eea3a.js"
+  ]
+}
